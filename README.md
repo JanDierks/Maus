@@ -23,10 +23,7 @@ Beschreibung des Roboters:
     - I²C --> über Stiftleiste
     - Bluetooth
     - Wifi
-    
-    ![ESP32-wroom-32-S-programming-board-pcb-102x72](https://user-images.githubusercontent.com/76936027/200129013-1bb213cb-e406-495a-85ce-98444fd78594.jpg)
-
-    
+   
   - Spannungsversorgung
     - 4x AAA Batterien/Akkus
     - USB-C
