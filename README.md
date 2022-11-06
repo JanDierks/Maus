@@ -1,8 +1,9 @@
 Beschreibung des Roboters:
 
-  - Entwickelt 2022 im Labor für Mechatronik  der Jade Hochschule
+  - Entwickelt wurde 2022 im Labor für Mechatronik der Jade Hochschule. 
   
-  - differentieller Antrieb mit Getriebemotoren und einem Stützrad
+  - Antrieb
+      Differentieller Antrieb mit Getriebemotoren und einem Stützrad
   
   - Sensorik
       - Nativ sind vorne am Roboter zwei CNY70 Reflexlichtschranken im Abstand von ca. 3cm verbaut.
@@ -28,4 +29,8 @@ Beschreibung des Roboters:
     - 4x AAA Batterien/Akkus
     - USB-C
     Temp / Hall / Touch-Sensor  
-  - 
+  
+  - Programmierung
+    Am Einfachsten lässt sich der ESP32 in der Arduino IDE programmieren. Videos und Anleitungen findet ihr im Bereich "Videos"
+    Der Roboter kann einfach per USB-C Kabel mit einem Laptop verbunden werden. Alternativ mit einem FTDI-Programmer und der UART Schnittstelle.
+    
